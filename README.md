@@ -1,11 +1,11 @@
-## Hi there 👋
+## Howdy 👋🤠
 
-### Currently Vibe Coding: <br>
+### 💻 Currently Vibe Coding: <br>
 [Fund Stats](https://fund-stats.vercel.app/) Venture capital funding dashboard <br>
 [Wanderloom]() Interactive global travel map to bring scrapbooking to mobile <br>
 [Minnow Finance](https://minnowfinance.vercel.app/) Stock research dashboard for the small fish in a big pond <br>
 
-### Connect with me
+### 🤝 Connect with me
 [Substack]() <br>
 [Travel Blog]() <br>
 
