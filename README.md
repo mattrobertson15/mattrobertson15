@@ -1,7 +1,15 @@
 ## Hi there 👋
 
-Vibe Coding Experiments:
-[Fund Stats](https://fund-stats.vercel.app/) A Venture Capital Funding Dashboard
+### Currently Vibe Coding: <br>
+[Fund Stats](https://fund-stats.vercel.app/) Venture capital funding dashboard <br>
+[Wanderloom]() Interactive global travel map <br>
+[Minnow Finance](https://minnowfinance.vercel.app/) Stock research dashboard <br>
+
+## Connect with me
+Substack
+
+
+
 <!--
 **mattrobertson15/mattrobertson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
